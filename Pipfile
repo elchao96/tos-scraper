@@ -7,6 +7,10 @@ name = "pypi"
 beautifulsoup4 = "*"
 requests = "*"
 path = "*"
+jupyter = "*"
+numpy = "*"
+cython = "*"
+matplotlib = "*"
 
 [dev-packages]
 black = "*"
